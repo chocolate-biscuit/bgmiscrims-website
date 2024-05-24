@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BGMI Tournament</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .tournament-section {
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+        .tournament-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .tournament-heading {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .tournament-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .tournament-info p {
+            margin: 5px 0;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info a {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<section class="tournament-section">
+    <div class="tournament-container">
+        <h2 class="tournament-heading">BGMI Tournament</h2>
+        <div class="tournament-info">
+            <p>Entry Fee: Rs. 120 per team</p>
+            <p>Winning Prize: Rs. 1300</p>
+        </div>
+        <div class="contact-info">
+            <p>For more details, contact us via <a href="https://instagram.com/also.varad">@also.varad</a> on Instagram.</p>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
